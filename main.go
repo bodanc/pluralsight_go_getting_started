@@ -1,7 +1,7 @@
 package main
 
 import (
-	"gitlab.reynencourt.com/bogdan/go_learning/pluralsight/go_core_language/project/controllers"
+	"bogdan/go_learning/pluralsight/go_core_language/project/controllers"
 	"net/http"
 )
 
