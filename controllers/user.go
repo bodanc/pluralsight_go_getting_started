@@ -6,7 +6,7 @@ package controllers
 
 import (
 	"encoding/json"
-	"gitlab.reynencourt.com/bogdan/go_learning/pluralsight/go_core_language/project/models"
+	"bogdan/go_learning/pluralsight/go_core_language/project/models"
 	"net/http"
 	"regexp"
 	"strconv"
